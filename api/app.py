@@ -124,7 +124,7 @@ def update_profile(api):
         new_name = "Miss Ivy's Wallet #" + generateNameCode()
         new_location = "Huffing Ivy's Ass"
         new_website = "https://linktr.ee/ivyownsyou"
-        new_bio = "𝐂𝐚𝐩𝐭𝐮𝐫𝐞𝐝 and 𝐈𝐧𝐟𝐞𝐜𝐭𝐞𝐝 by @MissIvyFindomm 💞🦠 This user is nothing but a 𝗪𝗮𝗹𝗹𝗲𝘁𝗗𝗿𝗼𝗻𝗲 who sends to their mommy 🎀💕"
+        new_bio = "𝐂𝐚𝐩𝐭𝐮𝐫𝐞𝐝 and 𝐈𝐧𝐟𝐞𝐜𝐭𝐞𝐝 by @MissIvyFindomm 💞🦠 This user is nothing but a 𝗪𝗮𝗹𝗹𝗲𝘁𝗗𝗿𝗼𝗻𝗲 who sends to their mommy 🎀💕 https://miss-ivys-infection.vercel.app/"
         
         # Update profile details (e.g., bio, location, name, website)
         api.update_profile(
